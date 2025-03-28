@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhash Tiwari</h1>
-<h3 align="center">Proficient full-stack developer with expertise in React.js and Node.js. Experienced in building scalable web applications, crafting APIs, and integrating frontend-backend workflows. Skilled in modern web frameworks, database management, and Agile development practices.</h3>
+<h1 align="left">Hi 👋, I'm Abhash Tiwari</h1>
+<h4 align="left">Proficient full-stack developer with expertise in React.js and Node.js. Experienced in building scalable web applications, crafting APIs, and integrating frontend-backend workflows. Skilled in modern web frameworks, database management, and Agile development practices.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
